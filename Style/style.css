@@ -479,6 +479,9 @@ footer{
     .menu-icon{
         display: none;
     }
+     header{
+        position: fixed;
+    }
     nav ul{
     position: fixed;
     top: 3rem;
